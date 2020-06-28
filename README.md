@@ -16,14 +16,14 @@
 
 
 ## Demo
-Link: [https://spam-detector-ml-app.herokuapp.com/](https://spam-detector-ml-app.herokuapp.com/)
+Link: [https://salary-predictor-ml-app.herokuapp.com(https://salary-predictor-ml-app.herokuapp.com)
 
 [![](https://i.imgur.com/j3dmIiq.png)](https://spam-detector-ml-app.herokuapp.com/)
 
 
 
 ## Overview
-This is a simple spam detection application developed using sklearn. The trained model (`model/model.h5`) takes string of message as an input and predicts the class of message as spam or not spam. It's a multiclass problem. Dataset has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+This is a simple spam detection application developed using sklearn.
 
 
 
@@ -97,5 +97,4 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-Data has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
 Thanks to kaggle for this awesome data.
