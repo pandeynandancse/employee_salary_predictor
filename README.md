@@ -18,7 +18,7 @@
 ## Demo
 Link: [https://spam-detector-ml-app.herokuapp.com/](https://spam-detector-ml-app.herokuapp.com/)
 
-[![](https://i.imgur.com/z3LLN7V.png)](https://spam-detector-ml-app.herokuapp.com/)
+[![](https://i.imgur.com/j3dmIiq.png)](https://spam-detector-ml-app.herokuapp.com/)
 
 
 
