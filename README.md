@@ -16,7 +16,7 @@
 
 
 ## Demo
-Link: [https://salary-predictor-ml-app.herokuapp.com(https://salary-predictor-ml-app.herokuapp.com)
+Link: [https://salary-predictor-ml-app.herokuapp.com](https://salary-predictor-ml-app.herokuapp.com)
 
 [![](https://i.imgur.com/j3dmIiq.png)](https://spam-detector-ml-app.herokuapp.com/)
 
